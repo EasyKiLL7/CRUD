@@ -1,0 +1,53 @@
+ #main-wrapper{
+	border-radius : 10px;
+	background: color #000000;;
+	border: 3px solid #f1f1f1;
+	width: 500px;
+	margin: 0 auto;
+}
+.inner_container{
+	width:450px;
+	margin:0 auto;
+}
+
+input{
+	width: 430px;
+	margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+#btn_go{
+	
+	background-color: #3498db;
+    color: white;
+	margin-top:5px;
+    padding:5px;
+	font-size:16px;
+	font-weight: bold;
+}
+#btn_insert{
+	background-color: #2ecc71;
+    color: white;
+	margin-top:5px;
+    padding:5px;
+	font-size:16px;
+	font-weight: bold;
+}
+#btn_update{
+	background-color: #f39c12;
+    color: white;
+	margin-top:5px;
+    padding:5px;
+    font-size:16px;
+	font-weight: bold;
+}
+#btn_delete{
+	background-color: #e74c3c;
+    color: white;
+	margin-top:5px;
+    padding:5px;
+  
+	font-size:16px;
+	font-weight: bold;
+}
